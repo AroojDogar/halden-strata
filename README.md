@@ -4,6 +4,12 @@ A scroll-driven 3D website for a concept electric GT race car. The camera flies 
 
 **Stack:** Next.js 15 (App Router) · TypeScript · Tailwind CSS v4 · Three.js · Lenis · Vercel
 
+![Halden Strata GT hero](docs/hero.png)
+
+### 9 luxury paint editions
+
+![The Strata GT in all nine paint editions](docs/editions.png)
+
 ## Features
 
 | Effect | What it does | File |
